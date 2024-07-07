@@ -43,7 +43,7 @@ footer {
 
 @media (max-width:700px) and (min-width:319px){
   .logo{
-    width: 120px;
+    width: 130px;
   }
   h1{
     font-size: 3rem;
